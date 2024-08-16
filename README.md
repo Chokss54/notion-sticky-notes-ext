@@ -1,0 +1,1 @@
+# notion-sticky-notes-ext
